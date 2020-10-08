@@ -11,5 +11,5 @@ npm install
 
 Para pasar la aplicación a producción:
 ```
-npm build
+npm run build
 ```
